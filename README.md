@@ -2,13 +2,13 @@
 Inlocate es una plataforma de posicionamiento interior para teléfonos inteligentes Android. Esta plataforma cuenta con dos aplicaciones de Android. Uno para la fase Offline o de aprendizaje (Logger) y la otra aplicación para la fase Online (Tracker).
 
 
-###Componentes
+### Componentes
 
 
-*InlocateLogger: Código Fuente más librerías
-*InlocateTracker: Código Fuente más librerías 
-*RM Server: código fuente 
-*Documentation: https://drive.google.com/file/d/1bg47bZ7-B0e-Zdoz2OF3kkZuI3-bwlLb/view?usp=sharing
+* InlocateLogger: Código Fuente más librerías
+* InlocateTracker: Código Fuente más librerías 
+* RM Server: código fuente 
+* Documentation: https://drive.google.com/file/d/1bg47bZ7-B0e-Zdoz2OF3kkZuI3-bwlLb/view?usp=sharing
 
 ## Instalación de las aplicaciones Inlocate Logger y Tracker
 Una vez creados  los archivos .apk  copie en la tarjeta SD del Android. Inicie una aplicación de administrador de archivos en el teléfono inteligente. O en caso de que use Android Studio, simplemente ejecútelos.
