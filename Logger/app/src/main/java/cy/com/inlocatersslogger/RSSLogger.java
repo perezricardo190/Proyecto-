@@ -204,14 +204,16 @@ public class RSSLogger extends Activity implements OnClickListener, OnSharedPref
 					return;
               //filter only app's to use
 				List<ScanResult> wifiList = wifi.getScanResults();
+				ArrayList<ScanResult> newwifilist = new ArrayList<ScanResult>();
 				for (int i = 0; i < wifiList.size(); i++) {
-					if (wifiList.get(i).SSID=="Inlocate 1"){//|| wifiList.get(i).SSID=="Inlocate 2"||wifiList.get(i).SSID=="Inlocate 3") {
-						//ArrayList<ScanResult> newwifilist = new ArrayList<ScanResult>();
+
+					if (wifiList.get(i).BSSID.equals("PUCMM_PREGRADO") /*|| wifiList.get(i).SSID=="Inlocate 2"||wifiList.get(i).SSID=="Inlocate 3"*/){
+						newwifilist.add(wifiList.get(i));
 
 					}
 				}
 
-				scanResults.setText("AP detected: " + wifiList.size());
+				scanResults.setText("AP detected: " + newwifilist.size());
 
 				if (Record_APs_Button.isClickable())
 					return;
@@ -222,11 +224,11 @@ public class RSSLogger extends Activity implements OnClickListener, OnSharedPref
 				Date date = new Date();
 				long timestamp = date.getTime();
 
-				if (curLocationMeters != null && !wifiList.isEmpty()) {
+				if (curLocationMeters != null && !newwifilist.isEmpty()) {
 
-					for (int i = 0; i < wifiList.size(); i++) {
-						LogRecord lr = new LogRecord(timestamp, curLocationMeters.x, curLocationMeters.y, wifiList.get(i).BSSID,
-								wifiList.get(i).level);
+					for (int i = 0; i < newwifilist.size(); i++) {
+						LogRecord lr = new LogRecord(timestamp, curLocationMeters.x, curLocationMeters.y, newwifilist.get(i).BSSID,
+								newwifilist.get(i).level);
 						Records.add(lr);
 					}
 
@@ -447,7 +449,7 @@ public class RSSLogger extends Activity implements OnClickListener, OnSharedPref
 		case PROGRESS_DIALOG:
 			progressDialog = new ProgressDialog(RSSLogger.this);
 			progressDialog.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
-			progressDialog.setMessage("Scanning in progress...");
+			progressDialog.setMessage("Escaneando RSSI...");
 			progressDialog.setCancelable(false);
 			return progressDialog;
 		default:
@@ -647,26 +649,26 @@ public class RSSLogger extends Activity implements OnClickListener, OnSharedPref
 	private boolean checkBuildingDimensions(String building_width, String building_height) {
 
 		if (building_width.equals("n/a") || building_width.trim().equals("")) {
-			toastPrint("Corrupted image configuration file", Toast.LENGTH_LONG);
+			toastPrint("Archivo de imagen erroneo", Toast.LENGTH_LONG);
 			return false;
 		}
 
 		if (building_height.equals("n/a") || building_height.trim().equals("")) {
-			toastPrint("Corrupted image configuration file", Toast.LENGTH_LONG);
+			toastPrint("ERROR EN EL ARCHIVO DE IMAGEN", Toast.LENGTH_LONG);
 			return false;
 		}
 
 		try {
 			Float.parseFloat(building_width);
 		} catch (Exception e) {
-			toastPrint("Error Building Width: " + e.getMessage(), Toast.LENGTH_LONG);
+			toastPrint("Error en el ancho del edificio: " + e.getMessage(), Toast.LENGTH_LONG);
 			return false;
 		}
 
 		try {
 			Float.parseFloat(building_height);
 		} catch (Exception e) {
-			toastPrint("Error Building Height: " + e.getMessage(), Toast.LENGTH_LONG);
+			toastPrint("Error la altura del edificio: " + e.getMessage(), Toast.LENGTH_LONG);
 			return false;
 		}
 		return true;
