@@ -4,20 +4,192 @@
         "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\layout\\main_choose_file_or_directory.xml"
     },
     {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_start_scan.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-mdpi\\start_scan.png"
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_start_scan.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-mdpi\\start_scan.png"
     },
     {
         "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_indoor_anim3.png.flat",
         "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\indoor_anim3.png"
     },
     {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\layout_toast_layout.xml.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\layout\\toast_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_jpg.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\jpg.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_txt.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\txt.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_apk.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\apk.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_indoor_anim3.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\indoor_anim3.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_info.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-mdpi\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_indoor_anim0.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\indoor_anim0.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_man.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-mdpi\\man.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_txt.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\txt.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_convert.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-mdpi\\convert.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_indoor.xml.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\menu\\menu_indoor.xml"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background1.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-hdpi\\background1.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_indoor_anim2.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\indoor_anim2.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_rar.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\rar.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_warning.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-mdpi\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_preferences.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-mdpi\\preferences.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shut_down.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-mdpi\\shut_down.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_clear.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-mdpi\\clear.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_zip.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\zip.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pdf.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_scan_animation.xml.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\scan_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_exe.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\exe.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_indoor_anim2.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\indoor_anim2.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_video.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\video.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_directory.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\directory.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_directory.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\directory.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shut_down.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-mdpi\\shut_down.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_indoor.xml.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\menu\\menu_indoor.xml"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pdf.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background1.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-hdpi\\background1.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_sound.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\sound.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_exe.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\exe.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_error.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-mdpi\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_rar.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\rar.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background3.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-hdpi\\background3.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_start_scan.png.flat",
+        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-mdpi\\start_scan.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_indoor.xml.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\layout\\main_indoor.xml"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_stop_scan.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-mdpi\\stop_scan.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_row.xml.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\xml\\file_row.xml"
+    },
+    {
         "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
         "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\xml\\preferences.xml"
     },
     {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\layout_toast_layout.xml.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\layout\\toast_layout.xml"
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_gz.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\gz.png"
     },
     {
         "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_zip.png.flat",
@@ -36,16 +208,16 @@
         "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-mdpi\\man.png"
     },
     {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_info.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-mdpi\\info.png"
-    },
-    {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_indoor_anim0.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\indoor_anim0.png"
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_choose_file_or_directory.xml.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\layout\\main_choose_file_or_directory.xml"
     },
     {
         "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
         "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_preferences.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-mdpi\\preferences.png"
     },
     {
         "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_indoor.xml.flat",
@@ -68,12 +240,12 @@
         "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\gif.png"
     },
     {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_txt.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\txt.png"
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_indoor_anim1.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\indoor_anim1.png"
     },
     {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_convert.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-mdpi\\convert.png"
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
     },
     {
         "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_jpg.png.flat",
@@ -84,84 +256,80 @@
         "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-mdpi\\warning.png"
     },
     {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
-    },
-    {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_rar.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\rar.png"
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_video.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\video.png"
     },
     {
         "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_apk.png.flat",
         "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\apk.png"
     },
     {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_preferences.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-mdpi\\preferences.png"
-    },
-    {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_clear.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-mdpi\\clear.png"
-    },
-    {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pdf.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\pdf.png"
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background2.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-hdpi\\background2.png"
     },
     {
         "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_row.xml.flat",
         "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\xml\\file_row.xml"
     },
     {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_exe.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\exe.png"
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\layout_toast_layout.xml.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\layout\\toast_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_convert.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-mdpi\\convert.png"
     },
     {
         "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background3.png.flat",
         "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-hdpi\\background3.png"
     },
     {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_indoor_anim2.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\indoor_anim2.png"
-    },
-    {
         "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_scan_animation.xml.flat",
         "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\scan_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_png.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\png.png"
     },
     {
         "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_gz.png.flat",
         "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\gz.png"
     },
     {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_video.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\video.png"
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_gif.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\gif.png"
     },
     {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_invisible.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-mdpi\\invisible.png"
     },
     {
         "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_indoor_anim1.png.flat",
         "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\indoor_anim1.png"
     },
     {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_directory.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-ldpi\\directory.png"
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_info.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-mdpi\\info.png"
     },
     {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shut_down.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-mdpi\\shut_down.png"
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_indoor_anim0.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-ldpi\\indoor_anim0.png"
     },
     {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_indoor.xml.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\menu\\menu_indoor.xml"
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_clear.png.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\drawable-mdpi\\clear.png"
     },
     {
         "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_stop_scan.png.flat",
         "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-mdpi\\stop_scan.png"
     },
     {
-        "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background1.png.flat",
-        "source": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\src\\main\\res\\drawable-hdpi\\background1.png"
+        "merged": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\RP\\Documents\\GitHub\\Proyecto-\\Logger\\app\\src\\main\\res\\xml\\preferences.xml"
     },
     {
         "merged": "C:\\Users\\RP\\Desktop\\Android\\AirplaceLogger\\Logger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_png.png.flat",

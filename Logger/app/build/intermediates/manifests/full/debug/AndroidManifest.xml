@@ -20,8 +20,7 @@
     <application
         android:debuggable="true"
         android:icon="@drawable/icon"
-        android:label="Inlocate Logger"
-        android:testOnly="true" >
+        android:label="Inlocate Logger" >
         <activity
             android:name="cy.com.inlocatersslogger.RSSLogger"
             android:label="Inlocate Logger"
